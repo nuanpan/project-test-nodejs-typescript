@@ -40,10 +40,10 @@ npm run test:watch
 
 Browse to http://localhost:3000
 
-#Result 
-
+# Result 
+```
 After you installed and run you can see results of the test at http://localhost:3000/test as json.
-
+```
 
 # Start in watch mode
 
